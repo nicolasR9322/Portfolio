@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+    <h1>Hola, soy un portfolio</h1>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
